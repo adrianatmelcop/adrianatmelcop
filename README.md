@@ -6,7 +6,7 @@ I'm Adriana Melcop, Computer Science student at Federal University of Pernambuco
 
 ### 🌟 Reach me:
  
-[Email Me](mailto:adrianatheilmc@gmail.com) | 
+[Email](mailto:adrianatheilmc@gmail.com) | 
 [LinkedIn](https://www.linkedin.com/in/adriana-melcop/)
 
 ---
