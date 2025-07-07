@@ -1,16 +1,18 @@
-## Hi there 👋
+# Welcome to My GitHub!
 
-<!--
-**adrianatmelcop/adrianatmelcop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Adriana Melcop](https://github.com/adrianatmelcop), Computer Science student at Federal University of Pernambuco (UFPE - CIn). I’m passionate about technology and problem-solving. I’m constantly exploring to expand my skills in software development, with a strong interest in web technologies, algorithms, and systems design.
+---
 
-Here are some ideas to get you started:
+### 🌟 My Highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach me: 
+[Email Me](mailto:adrianatheilmc@gmail.com) | 
+[LinkedIn](https://www.linkedin.com/in/adriana-melcop/)
+
+---
+
+### Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianatmelcop&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianatmelcop&layout=compact&theme=radical)
+
+---
