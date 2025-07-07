@@ -1,6 +1,7 @@
 # Welcome to My GitHub!
 
 I'm [Adriana Melcop](https://github.com/adrianatmelcop), Computer Science student at Federal University of Pernambuco (UFPE - CIn). I’m passionate about technology and problem-solving. I’m constantly exploring to expand my skills in software development, with a strong interest in web technologies, algorithms, and systems design.
+
 ---
 
 ### 🌟 My Highlights
