@@ -1,12 +1,11 @@
 # Welcome to My GitHub!
 
-I'm [Adriana Melcop](https://github.com/adrianatmelcop), Computer Science student at Federal University of Pernambuco (UFPE - CIn). I’m passionate about technology and problem-solving. I’m constantly exploring to expand my skills in software development, with a strong interest in web technologies, algorithms, and systems design.
+I'm Adriana Melcop, Computer Science student at Federal University of Pernambuco (UFPE - CIn). I’m passionate about technology and problem-solving. I’m constantly exploring to expand my skills in software development, with a strong interest in web technologies, algorithms, and systems design.
 
 ---
 
-### 🌟 My Highlights
-
-Reach me: 
+### 🌟 Reach me:
+ 
 [Email Me](mailto:adrianatheilmc@gmail.com) | 
 [LinkedIn](https://www.linkedin.com/in/adriana-melcop/)
 
@@ -14,6 +13,6 @@ Reach me:
 
 ### Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianatmelcop&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianatmelcop&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianatmelcop&show_icons=true&theme=radical)
 
 ---
